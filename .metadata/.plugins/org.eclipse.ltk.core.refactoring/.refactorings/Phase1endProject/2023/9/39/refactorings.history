@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;phase1.project.exception.PropertOptionValue&apos; to &apos;ProperOptionValue&apos;&#x0A;- Original project: &apos;Phase1endProject&apos;&#x0A;- Original element: &apos;phase1.project.exception.PropertOptionValue&apos;&#x0A;- Renamed element: &apos;phase1.project.exception.ProperOptionValue&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;PropertOptionValue&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;phase1.project.exception{PropertOptionValue.java[PropertOptionValue" matchStrategy="1" name="ProperOptionValue" qualified="false" references="true" similarDeclarations="false" stamp="1695551372120" textual="false" version="1.0"/>
+</session>

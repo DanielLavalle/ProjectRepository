@@ -1,0 +1,5 @@
+package phase1.project.exception;
+
+public class PropertOptionValue {
+
+}

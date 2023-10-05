@@ -1,0 +1,11 @@
+package phase1.project.exception;
+
+public class PropertOptionValue extends Exception{
+	public PropertOptionValue () {
+		
+		
+	}
+	public PropertOptionValue (String name){
+		super(name);
+	}
+}

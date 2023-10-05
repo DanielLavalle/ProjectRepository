@@ -1,0 +1,9 @@
+package phase1.project.utility;
+
+public class SubMenu {
+	
+	public static void submenuOptions () {
+		System.out.println("Welcome to Sub Options");
+		
+	}
+}
